@@ -1,0 +1,8 @@
+{
+  "name": "Hades-Engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bukareszt/Hades-Engine.git",
+  "author": "Grzegorz Piotrowski <g.piotrowski@tkhsecurity.com>",
+  "license": "MIT"
+}
